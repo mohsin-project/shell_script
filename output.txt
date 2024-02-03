@@ -1,0 +1,2 @@
+Greater than symbol is used to write into file
+>> symbol is used to append into a file
